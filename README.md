@@ -1,0 +1,1 @@
+# program-to-calculate-the-sum-of-array-elements-using-pointer-arithmetic.
